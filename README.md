@@ -31,4 +31,4 @@ Generics + Streams
 Java Networking
 Java Reflection API
 Java JDBC
-Java New Features**
+Java New Features
